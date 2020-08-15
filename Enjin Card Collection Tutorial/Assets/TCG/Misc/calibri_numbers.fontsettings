@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!128 &12800000
+Font:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: calibri_numbers
+  serializedVersion: 5
+  m_LineSpacing: 73.24219
+  m_DefaultMaterial: {fileID: 2100000, guid: 6f2d60a80f09aec48bcae562e4924461, type: 2}
+  m_FontSize: 60
+  m_Texture: {fileID: 2800000, guid: f3cd30be5bed6c54e84998c0e8358944, type: 3}
+  m_AsciiStartOffset: 0
+  m_Tracking: 1
+  m_CharacterSpacing: 1
+  m_CharacterPadding: 0
+  m_ConvertCase: 3
+  m_CharacterRects:
+  - serializedVersion: 2
+    index: 49
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.3046875
+      width: 0.1796875
+      height: -0.3046875
+    vert:
+      serializedVersion: 2
+      x: 5
+      y: -6
+      width: 23
+      height: -39
+    advance: 30
+    flipped: 0
+  - serializedVersion: 2
+    index: 50
+    uv:
+      serializedVersion: 2
+      x: 0.1875
+      y: 0.3046875
+      width: 0.1953125
+      height: -0.3046875
+    vert:
+      serializedVersion: 2
+      x: 3
+      y: -6
+      width: 25
+      height: -39
+    advance: 30
+    flipped: 0
+  - serializedVersion: 2
+    index: 51
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.625
+      width: 0.1875
+      height: -0.3125
+    vert:
+      serializedVersion: 2
+      x: 3
+      y: -6
+      width: 24
+      height: -40
+    advance: 30
+    flipped: 0
+  - serializedVersion: 2
+    index: 52
+    uv:
+      serializedVersion: 2
+      x: 0.390625
+      y: 0.3125
+      width: 0.21875
+      height: -0.3125
+    vert:
+      serializedVersion: 2
+      x: 1
+      y: -6
+      width: 28
+      height: -40
+    advance: 30
+    flipped: 0
+  - serializedVersion: 2
+    index: 53
+    uv:
+      serializedVersion: 2
+      x: 0.6171875
+      y: 0.3046875
+      width: 0.1953125
+      height: -0.3046875
+    vert:
+      serializedVersion: 2
+      x: 2
+      y: -7
+      width: 25
+      height: -39
+    advance: 30
+    flipped: 0
+  - serializedVersion: 2
+    index: 54
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.9453125
+      width: 0.203125
+      height: -0.3125
+    vert:
+      serializedVersion: 2
+      x: 3
+      y: -6
+      width: 26
+      height: -40
+    advance: 30
+    flipped: 0
+  - serializedVersion: 2
+    index: 55
+    uv:
+      serializedVersion: 2
+      x: 0.1953125
+      y: 0.625
+      width: 0.203125
+      height: -0.3046875
+    vert:
+      serializedVersion: 2
+      x: 2
+      y: -7
+      width: 26
+      height: -39
+    advance: 30
+    flipped: 0
+  - serializedVersion: 2
+    index: 56
+    uv:
+      serializedVersion: 2
+      x: 0.2109375
+      y: 0.9453125
+      width: 0.203125
+      height: -0.3125
+    vert:
+      serializedVersion: 2
+      x: 2
+      y: -6
+      width: 26
+      height: -40
+    advance: 30
+    flipped: 0
+  - serializedVersion: 2
+    index: 57
+    uv:
+      serializedVersion: 2
+      x: 0.6171875
+      y: 0.625
+      width: 0.203125
+      height: -0.3125
+    vert:
+      serializedVersion: 2
+      x: 2
+      y: -6
+      width: 26
+      height: -40
+    advance: 30
+    flipped: 0
+  - serializedVersion: 2
+    index: 48
+    uv:
+      serializedVersion: 2
+      x: 0.421875
+      y: 0.9453125
+      width: 0.2109375
+      height: -0.3125
+    vert:
+      serializedVersion: 2
+      x: 2
+      y: -6
+      width: 27
+      height: -40
+    advance: 30
+    flipped: 0
+  m_KerningValues: []
+  m_PixelScale: 0.1
+  m_FontData: 
+  m_Ascent: 45
+  m_Descent: -28.242188
+  m_DefaultStyle: 0
+  m_FontNames:
+  - Calibri
+  m_FallbackFonts:
+  - {fileID: 12800000, guid: 4e040909b8004fd409559b55007c6de6, type: 3}
+  - {fileID: 12800000, guid: 44ee254d19fdf27469782f0642d645dc, type: 3}
+  m_FontRenderingMode: 0
+  m_UseLegacyBoundsCalculation: 0
+  m_ShouldRoundAdvanceValue: 1

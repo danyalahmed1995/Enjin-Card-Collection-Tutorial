@@ -1,0 +1,4 @@
+1. in Inspector, choose texture type: Advanced
+2. check Read/Write Enabled
+
+now you can load them in TCG Editor main window
